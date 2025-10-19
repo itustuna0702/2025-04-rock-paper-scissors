@@ -872,4 +872,6 @@ contract RockPaperScissorsTest is Test {
     receive() external payable {
         // Allow the test contract to receive ETH
     }
+
 }
+
